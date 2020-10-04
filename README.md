@@ -1,5 +1,5 @@
-# Line-Follower-Maze-Solver
+#     Line-Follower-Maze-Solver
 
-## Run the fully working code "Bot1" in Arduino IDE 
+## Execute the complete working code in "Bot1".
 
-### You are ready to go...
+###  Then you are ready to go...
